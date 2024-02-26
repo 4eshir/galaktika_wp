@@ -11,5 +11,7 @@
 		<?php do_action( 'hestia_do_footer' ); ?>
 	</div>
 <?php wp_footer(); ?>
+
+<?php date("YYYY"); ?>
 </body>
 </html>
